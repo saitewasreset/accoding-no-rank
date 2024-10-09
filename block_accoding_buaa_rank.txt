@@ -1,0 +1,4 @@
+! Oct 9, 2024 https://accoding.buaa.edu.cn
+accoding.buaa.edu.cn##h5[ng-if="Rank.statistics.myRank"]
+accoding.buaa.edu.cn##a[href$="rank"]
+accoding.buaa.edu.cn##p.ng-binding.text-center:has(code)
